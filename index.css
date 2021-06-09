@@ -1,0 +1,72 @@
+body{
+	 margin: 0;
+}
+nav{
+	 background: #3CB371;
+}
+.menu{
+	 text-align: center;
+	 margin: 0;
+}
+.menu li{
+     display: inline-block;
+}
+.menu a{
+	 padding: 45px;
+	 color: white;
+	 text-decoration: none;
+	 display: block;
+}
+.menu a:hover{
+	 background: #1ABC9C;
+
+}
+.gris{
+	 background: #333333;
+	 overflow: hidden;
+	 color: white;
+	 text-align: center;
+	 padding: 90px;
+}
+.books{
+	 height: 400px;
+	 background: url(../img/books.jpg);
+	 overflow: hidden;
+	 text-align: center;
+}
+.dos_col{
+	 width: 1024px;
+	 margin: auto; 
+	 background: #98FB98;
+}
+.dos_col .col_left{
+	 width: 600px;
+	 display: inline-block;
+	 vertical-align: top;
+}
+.dos_col .col_right{
+	 width: 400px;
+	 display: inline-block;
+	 vertical-align: top;
+}
+.tres_col{
+	 color: white;
+     width: 977px;
+     margin: auto;
+}
+.tres_col a{
+	 color: white;
+}
+.col{
+	 display: inline-block;
+}
+.tres_col .col{
+	width: 310px;
+}
+.tres_col_wrapper{
+	 padding: 20px;
+	 background: #1ABC9C;
+	 overflow: hidden;
+	 color: white;
+	 display: inline-block;
+}
